@@ -1,0 +1,63 @@
+{
+	"stations" : [
+		{
+			"nom" : "Station de Ski Valinouet, Saint-David-de-Falardeau, Route du Valinouët, Saint-David-de-Falardeau, QC",
+			"coordonnees" : {
+				"latitude": "48.654327",
+				"longitude": "-70.894677"
+			}
+		},
+		{
+			"nom": "Station de ski Mont-Édouard, 67 Rue Dallaire, L'Anse-Saint-Jean, QC G0V 1J0",
+			"coordonnees": {
+				"latitude": "48.167860",
+				"longitude": "-70.287924"
+			}
+		},
+		{
+			"nom": "Le Massif de Charlevoix, QC-138, Petite-Rivière-Saint-François, QC",
+			"coordonnees": {
+				"latitude": "47.279546",
+				"longitude": "-70.609106"
+			}
+		},
+		{
+			"nom": "Petit Chamonix (Le), Rue de Chamonix, Matapédia, QC",
+			"coordonnees": {
+				"latitude": "47.972600",
+				"longitude": "-66.955866"
+			}
+		},
+		{
+			"nom": "Centre de Ski Le Relais, Boulevard du Lac, Lac-Beauport, QC",
+			"coordonnees": {
+				"latitude": "46.941408",
+				"longitude": "-71.299088"
+			}
+		},
+		{
+			"nom": "Centre de Ski Vallée Bleue, Chemin de la Vallée Bleue, Val-David, QC",
+			"coordonnees": {
+				"latitude": "46.026156",
+				"longitude": "-74.217939"
+			}
+		},
+		{
+			"nom": "Centre de ski Mont-Béchervaise",
+			"coordonnees": {
+				"latitude": "48.836268",
+				"longitude": "-64.543071"
+			}
+		},
+		{
+			"nom": "Ski Val Saint-Côme, Rue Val Saint Côme, Saint-Côme, QC",
+			"coordonnees": {
+
+				"latitude": "46.271644",
+				"longitude": "-73.871493"
+			}
+
+		}
+
+	]
+}

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NeigePal</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_launch">LaunchActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="open_weather_maps_app_id">65af5df7d093e9b907ca2fc2eff56b22</string>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NeigePal</string>
+    <string name="nav_header_subtitle">Votre compagnon de neige</string>
+    <string name="nav_header_desc">Juste une icône.</string>
+
+    <string name="menu_coord">Entrer des coordonnées</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_urgence">Configuer le numéro d\'urgence</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
