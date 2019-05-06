@@ -61,7 +61,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     private static final String OPEN_WEATHER_MAP_URL =
             "http://api.openweathermap.org/data/2.5/weather?lat=%s&lon=%s&units=metric&lang=fr";
-    private static final String OPEN_WEATHER_MAP_API = "65af5df7d093e9b907ca2fc2eff56b22";
+    private static final String OPEN_WEATHER_MAP_API = "YOUR_API_KEY_HERE";
     // Des valeurs permettant de sauvegarder la position de la caméra et la localisation quand on met en pause l'appli
     private static final String KEY_CAMERA_POSITION = "camera_position";
     private static final String KEY_LOCATION = "location";
